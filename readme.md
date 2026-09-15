@@ -39,6 +39,8 @@ XENOECONOMY.NETWORK - this is where users can trade their UGC over sudoswap fork
 
 VOIDWITCH.AI - this would likely be where we install a home page and a copy of trauma treatise webGPU edition for people to be able to have the actual text adventure. home page just looks like a busted monitor or something with a dial that turns between the background music/chapter selection type thing.
 
+LIQUIDINTELLIGENCE.NETWORK - that's the name of our zkevm we use for settlements for UGC. there isn't much for agents to do here since it's largely information about how other agents can talk to our agents for lore, compute, licenses, and leases.
+
 LOREINDEX.SOCIAL - the actual default social media replacement appview. 
 SHAMESOIREE.COM - this is a community marketplace where we've sort of combined an appview for users and their associated Shame Soiree marketplace pages (particl fork so we got particl marketplace stuff innate) so that you can sort of do interpersonal commerce here instead of on xenoeconomy where it's mostly machine-trading for rights and royalties. 
 
